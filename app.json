@@ -1,0 +1,27 @@
+[
+  {
+    "id": "com.kevv.miapp",
+    "name": "Mi App",
+    "shortDescription": "Descripción corta de tu app",
+    "fullDescription": "Descripción completa de tu app. Contá todo lo que hace acá.",
+    "version": "1.0.0",
+    "versionCode": 1,
+    "packageName": "com.kevv.miapp",
+    "category": "Utilidades",
+    "iconUrl": "",
+    "apkUrl": "",
+    "apkSize": "5 MB",
+    "screenshots": [],
+    "changelog": [
+      {
+        "version": "1.0.0",
+        "date": "2025-03-13",
+        "notes": "• Lanzamiento inicial"
+      }
+    ],
+    "minSdk": 26,
+    "targetSdk": 35,
+    "releaseDate": "2025-03-13",
+    "tags": ["utilidad"]
+  }
+]

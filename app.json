@@ -64,7 +64,7 @@
     "name": "FacuApp",
     "shortDescription": "El organizador definitivo para estudiantes universitarios.",
     "fullDescription": "FacuApp es el organizador definitivo para estudiantes universitarios. Olvidate de las agendas de papel y los recordatorios perdidos — tenés todo lo que necesitás en la palma de tu mano. FacuApp es gratuita, sin anuncios y diseñada por y para estudiantes.",
-    "version": "1.0.0",
+    "version": "1.3.2",
     "versionCode": 1,
     "packageName": "com.kevv.facuapp",
     "category": "Educación",
